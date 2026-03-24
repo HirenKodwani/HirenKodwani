@@ -1,4 +1,4 @@
-<--# 💫 About Me:
+💫 About Me:
 An analytical and innovation-oriented Computer <br>Science (Data Science) undergraduate student <br>who has hands-on experience working within Cloud <br>Computing, AI/ML, DevOps, Research, and product <br>engineering. Strong understanding of Python, AWS <br>Cloud, DevOps and data visualization methods that <br>also advocate for UI/UX design and Project <br>management skills. Proficient at managing cross<br>functional teams to deliver scalable, data-led <br>solutions through the assessment of complex <br>technical ideas in order to drive impact. 
 
 
